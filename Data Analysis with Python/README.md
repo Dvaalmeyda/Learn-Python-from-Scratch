@@ -9,13 +9,13 @@ Tom wants to sell his car but he doesn't know how much he should sell his car fo
 <br><br>
 <br>1. Understanding the data
 <br><br>2. Python packages for data science :
-    <br> a. Scientifics Computing
-    <br>   1. Pandas   : Data structures & tools for effective data manipulation, primary = 2 dimensional table for easy indexing, fast access to structured data
-       <br> 2. Numpy    : Arrays & Matrices, for fast array processing
-        <br>3. Scipy    : Includes function for some advance math problems
-    <br> b. Data Visualization
-        <br> 1. Matplotlib   : Plot & Graph
-        <br> 2. Seaborn      : Plot: heat maps, time series, violin plots
-    <br> c. Algorithmic
-        <br> 1. Scikit-Learn : Machine Learning (Regression, classification, etc)
-        <br> 2. Statsmodels  : Explore data, estimate statistical models, and statistical tests
+    <br><br> a. Scientifics Computing
+    <br><br>   1. Pandas   : Data structures & tools for effective data manipulation, primary = 2 dimensional table for easy indexing, fast access to structured data
+       <br><br> 2. Numpy    : Arrays & Matrices, for fast array processing
+       <br> <br>3. Scipy    : Includes function for some advance math problems
+    <br><br><br> b. Data Visualization
+       <br> <br> 1. Matplotlib   : Plot & Graph
+       <br> <br> 2. Seaborn      : Plot: heat maps, time series, violin plots
+   <br><br> <br> c. Algorithmic
+       <br> <br> 1. Scikit-Learn : Machine Learning (Regression, classification, etc)
+       <br> <br> 2. Statsmodels  : Explore data, estimate statistical models, and statistical tests
