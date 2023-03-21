@@ -9,7 +9,7 @@ To answer these questions, we're going to need some data.
 
 1. Understanding the data
 2. Python packages for data science :
-    a. Scientifics Computing
+    <br> a. Scientifics Computing
         1. Pandas   : Data structures & tools for effective data manipulation, primary = 2 dimensional table for easy indexing, fast access to structured data
         2. Numpy    : Arrays & Matrices, for fast array processing
         3. Scipy    : Includes function for some advance math problems
